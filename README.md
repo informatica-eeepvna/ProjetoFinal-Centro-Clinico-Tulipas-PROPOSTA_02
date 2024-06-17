@@ -69,7 +69,7 @@ A clínica conta com uma equipe de profissionais qualificados, incluindo médico
 - **Bootstrap**: Framework de front-end para agilizar o desenvolvimento e garantir um design responsivo e moderno.
 
 ## Links Importantes
-- **Site em Funcionamento**: [Link para o site](https://laceperl.github.io/CCT/med.html)
+- **Site em Funcionamento**: [Link para o site](https://laceperl.github.io/CCT/)
 - **Identidade Visual Completa**: [Link para o Drive](https://drive.google.com/drive/folders/1pNaWw0r_plM8jUaSs0SFJnKW11YSLuqz?usp=drive_link)
 
 ## Equipe
